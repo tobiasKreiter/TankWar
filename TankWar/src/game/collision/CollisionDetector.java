@@ -14,7 +14,7 @@ import java.util.ArrayList;
  * @author Tobias
  */
 public class CollisionDetector {
-
+    
     private Vector2D yAxis = new Vector2D(0, 1);
 
     public void checkCollision(ArrayList<GameObject> objs) {
